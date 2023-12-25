@@ -1,10 +1,10 @@
 ### Hi there 👋
 
--  𝕏 https://twitter.com/rakaz_b
+- 𝕏 https://twitter.com/rakaz_b
 - 🦋 https://bsky.app/profile/rakaz.bsky.social
 - 🧠 https://scrapbox.io/rakaz-pub/
 - 👏 https://wavebox.me/wave/29ybknppnja6df1i/
-- ✉ renrakaz@outlook.com
+- ✉  renrakaz@outlook.com
 
 <!--
 **rakazv/rakazv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
